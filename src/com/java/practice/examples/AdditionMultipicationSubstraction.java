@@ -7,7 +7,6 @@ public class AdditionMultipicationSubstraction {
 		int b = 6;
 		int c = a + b;
 		System.out.println("The sum of " + a + " and " + b + " is equals to : " + c);
-
 	}
 
 }
