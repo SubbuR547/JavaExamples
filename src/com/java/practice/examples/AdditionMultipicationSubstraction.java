@@ -1,6 +1,6 @@
 package com.java.practice.examples;
 
-public class SimpleAddition {
+public class AdditionMultipicationSubstraction {
 
 	public static void main(String[] args) {
 		int a = 5;
