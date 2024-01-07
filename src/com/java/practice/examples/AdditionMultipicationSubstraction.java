@@ -1,5 +1,4 @@
 package com.java.practice.examples;
-
 public class AdditionMultipicationSubstraction {
 
 	public static void main(String[] args) {
