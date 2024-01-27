@@ -6,10 +6,10 @@ public class StringDemo {
 		// TODO Auto-generated method stub
          Scanner sc = new Scanner(System.in);
          System.out.println("Enter first number");
-         int i= sc.nextInt();
+         String i= sc.next();
          System.out.println("Enter second number");
-         int j= sc.nextInt();
-         int sum=i+j;
+         String j= sc.next();
+         String sum=i+j;
          System.out.println("Result: "+ sum);
          sc.close();
 	}
